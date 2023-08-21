@@ -5,9 +5,8 @@ nav
   background-color: black;
   color: white;
 }
-nav>ul>li{
+div{
   display:inline;
-  list-style-type: none;
 }
 img{
   width: 100px;
